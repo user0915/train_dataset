@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>PMN-2-anti-personnel-mine_png.rf.c050f268e29d0b27193c1bea6decdbf5.jpg</filename>
+	<path>/my-project-name/PMN-2-anti-personnel-mine_png.rf.c050f268e29d0b27193c1bea6decdbf5.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>669</width>
+		<height>436</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pmn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>184</xmin>
+			<ymin>81</ymin>
+			<xmax>542</xmax>
+			<ymax>374</ymax>
+		</bndbox>
+	</object>
+</annotation>

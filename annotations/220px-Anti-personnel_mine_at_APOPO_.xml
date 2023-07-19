@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>220px-Anti-personnel_mine_at_APOPO_.jpg</filename>
+	<path>/my-project-name/220px-Anti-personnel_mine_at_APOPO_.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>220</width>
+		<height>165</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pmn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>64</ymin>
+			<xmax>119</xmax>
+			<ymax>103</ymax>
+		</bndbox>
+	</object>
+</annotation>

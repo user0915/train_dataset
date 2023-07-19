@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>glowing-bacteria-can-help-locate-devastating-hidden-land-mines-w1456_.jpg</filename>
+	<path>/my-project-name/glowing-bacteria-can-help-locate-devastating-hidden-land-mines-w1456_.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pmn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>344</xmin>
+			<ymin>348</ymin>
+			<xmax>647</xmax>
+			<ymax>637</ymax>
+		</bndbox>
+	</object>
+</annotation>

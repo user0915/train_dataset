@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>main-qimg-116c02e743beed254cc6ddfeec62403a-lq_.jpg</filename>
+	<path>/my-project-name/main-qimg-116c02e743beed254cc6ddfeec62403a-lq_.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>602</width>
+		<height>402</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pmn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>209</xmin>
+			<ymin>145</ymin>
+			<xmax>381</xmax>
+			<ymax>312</ymax>
+		</bndbox>
+	</object>
+</annotation>

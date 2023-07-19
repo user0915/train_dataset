@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>this-photograph-of-a-pma-2-anti-personnel-mine-was-used-for-mine-awareness-0a6e43-1024_jpg.rf.f1188fd94149009fc05503700997c60f.jpg</filename>
+	<path>/my-project-name/this-photograph-of-a-pma-2-anti-personnel-mine-was-used-for-mine-awareness-0a6e43-1024_jpg.rf.f1188fd94149009fc05503700997c60f.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>680</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pmn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>211</xmin>
+			<ymin>89</ymin>
+			<xmax>752</xmax>
+			<ymax>591</ymax>
+		</bndbox>
+	</object>
+</annotation>

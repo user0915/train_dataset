@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>asdff_.jpg</filename>
+	<path>/my-project-name/asdff_.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>468</width>
+		<height>253</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pmn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>168</xmin>
+			<ymin>40</ymin>
+			<xmax>362</xmax>
+			<ymax>208</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>r2popped_jpg.rf.2f71b8f8868cc76da870222f2fcae500.jpg</filename>
+	<path>/my-project-name/r2popped_jpg.rf.2f71b8f8868cc76da870222f2fcae500.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>350</width>
+		<height>466</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pmn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>118</xmin>
+			<ymin>170</ymin>
+			<xmax>261</xmax>
+			<ymax>304</ymax>
+		</bndbox>
+	</object>
+</annotation>

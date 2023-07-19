@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>-_-_-_TS_50_.jpg</filename>
+	<path>/my-project-name/-_-_-_TS_50_.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>3648</width>
+		<height>2432</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pmn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1267</xmin>
+			<ymin>557</ymin>
+			<xmax>2314</xmax>
+			<ymax>1703</ymax>
+		</bndbox>
+	</object>
+</annotation>

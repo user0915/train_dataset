@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>unnamed_jpg.rf.15afa377dc3988c317fdb7fdf2f74d06.jpg</filename>
+	<path>/my-project-name/unnamed_jpg.rf.15afa377dc3988c317fdb7fdf2f74d06.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pmn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>181</xmin>
+			<ymin>199</ymin>
+			<xmax>368</xmax>
+			<ymax>367</ymax>
+		</bndbox>
+	</object>
+</annotation>

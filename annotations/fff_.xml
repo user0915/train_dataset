@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>fff_.jpg</filename>
+	<path>/my-project-name/fff_.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>458</width>
+		<height>257</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pmn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>231</xmin>
+			<ymin>154</ymin>
+			<xmax>288</xmax>
+			<ymax>205</ymax>
+		</bndbox>
+	</object>
+</annotation>

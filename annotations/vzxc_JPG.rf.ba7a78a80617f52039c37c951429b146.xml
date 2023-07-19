@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>vzxc_JPG.rf.ba7a78a80617f52039c37c951429b146.jpg</filename>
+	<path>/my-project-name/vzxc_JPG.rf.ba7a78a80617f52039c37c951429b146.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>216</width>
+		<height>315</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pmn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>47</ymin>
+			<xmax>147</xmax>
+			<ymax>123</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>SSI_20210612041655_jpg.rf.a21c3efd35e51e40bf3e30ffe66c7eef.jpg</filename>
+	<path>/my-project-name/SSI_20210612041655_jpg.rf.a21c3efd35e51e40bf3e30ffe66c7eef.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>812</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pmn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>183</xmin>
+			<ymin>233</ymin>
+			<xmax>521</xmax>
+			<ymax>606</ymax>
+		</bndbox>
+	</object>
+</annotation>
