@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>asdff_JPG.rf.7ba767fe4b693ad7f457d9b97c4034ef.jpg</filename>
+	<path>asdff_JPG.rf.7ba767fe4b693ad7f457d9b97c4034ef.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>468</width>
+		<height>253</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pmn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>168</xmin>
+			<xmax>359</xmax>
+			<ymin>41</ymin>
+			<ymax>211</ymax>
+		</bndbox>
+	</object>
+</annotation>
